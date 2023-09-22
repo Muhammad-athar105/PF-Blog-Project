@@ -14,11 +14,11 @@ http://10.0.10.38:3500/api/users/id
 
 Update User: 
 Method: PUT
-http://127.0.0.1:8000/api/users/id
+http://10.0.10.38:3500/api/users/id
 
-Delte User:
+Delete User:
 Method: DELETE
-http://127.0.0.1:8000/api/users/1
+http://10.0.10.38:3500/api/users/id
 
 Get All Users:
 Method:  GET
